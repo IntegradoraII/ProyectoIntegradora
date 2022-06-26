@@ -138,8 +138,12 @@
 
 
 ### Prototipo
+#### Hardware
+[![Integradora-II-bb.png](https://i.postimg.cc/90swW1F7/Integradora-II-bb.png)](https://postimg.cc/kRFgsQSJ)
 
-
+#### Software
+[![Web-Integradora.jpg](https://i.postimg.cc/1zMggy3P/Web-Integradora.jpg)](https://postimg.cc/7CGPd8zQ)
+[![Web-Integradora-2.jpg](https://i.postimg.cc/k4zW47TG/Web-Integradora-2.jpg)](https://postimg.cc/Kk71phSh)
 <!-- Construido con -->
 
 
