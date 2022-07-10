@@ -115,14 +115,25 @@
 </table>
 
 #### Requerimientos
-|No.  |Requerimiento  |
+
+#####Funcionales
+|No.  |Requerimiento Funcionales |
 |---  |-------------  |
-| 1   |El sistema deberá permitir dar la bienvenida al cliente o visitante a través de lectura de rostro, si la persona es un cliente mediante un Display y/o un repetidor de Voz dará la bienvenida. A su vez, el empleado recibirá una notificación a su dispositivo móvil para su atención.               |
-| 2   |Mediante lectura de código QR a través de dispositivo móvil la persona podrá observar la descripción del producto. |
-| 3   |Mediante realidad aumentada a través de dispositivo móvil el cliente o turista podrá interactuar con las características y uso del producto.|
-| 4   |La persona podrá solicitar la atención del empleado a través de su dispositivo móvil ya sea para muestra del producto o venta del mismo.|
-| 5   |La persona podrá responder la encuesta de salida si fue agradable el servicio al cliente, etc.|
-| 6   |El gerente o dueño del negocio podrá ver estadísticas como: Número de visitantes que llegaron al establecimiento. Número de visitantes que realizaron compra. Encuesta de satisfacción de salida.  |
+| 1   |El usuario pueda registrarse con un correo, contraseña, nombre, epellidos y número de teléfono.               |
+| 2   |El usuario deberá poder ingresar con un correo y contraseña.|
+| 3   |El usuario podrá agregar de uno a cinco pacientes que este bajo su cuidado.|
+| 4   |El usuario podrá tener acceso a la información necesaria del paciente a su cuidado. |
+| 5   |El usuario podrá editar la información del paciente que este a su cuidado.|
+| 6   |El usuario podrá eliminar a algún paciente que este a su cuidado.|
+
+#####No Funcionales
+|No. |Requerimientos no Funcionales|
+| 1   |El sistema debe apegarse a las necesidades del usuario. |
+| 2   |El sistema debe comportarse de manera adecuada para los usuarios en una plataforma web|
+| 3   |El sistema debe estar disponible para los usuarios y solo estará fuera de servicio cuando sea necesario darle mantenimiento |
+| 4   |La administración de los usuarios estará monitoreada.|
+| 5   |El sistema debe ser capaz de soportar un crecimiento de usuarios.|
+| 6   |El programa podrá realizar los procesos necesarios en el día y para ello debe estar ligado a una base de datos|
 
 #### Diagrama inicial
 ![image](https://user-images.githubusercontent.com/8560750/166749650-89fba768-4bbc-45c4-93d3-df9e5d08ad4c.png)
