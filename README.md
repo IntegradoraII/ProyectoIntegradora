@@ -128,12 +128,13 @@
 
 #####No Funcionales
 |No. |Requerimientos no Funcionales|
+|---  |-------------  |
 | 1   |El sistema debe apegarse a las necesidades del usuario. |
 | 2   |El sistema debe comportarse de manera adecuada para los usuarios en una plataforma web|
 | 3   |El sistema debe estar disponible para los usuarios y solo estará fuera de servicio cuando sea necesario darle mantenimiento |
 | 4   |La administración de los usuarios estará monitoreada.|
 | 5   |El sistema debe ser capaz de soportar un crecimiento de usuarios.|
-| 6   |El programa podrá realizar los procesos necesarios en el día y para ello debe estar ligado a una base de datos|
+| 6   |El programa podrá realizar los procesos necesarios en el día y para ello debe estar ligado a una base de datos.|
 
 #### Diagrama inicial
 ![image](https://user-images.githubusercontent.com/8560750/166749650-89fba768-4bbc-45c4-93d3-df9e5d08ad4c.png)
