@@ -51,7 +51,13 @@
 
 
 ### Material de uso:
-<table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr>
+<table> 
+  <tr>
+    <th>Componente</th>
+    <th>Imagen</th>
+    <th>Descripción</th>
+    <th>Cantidad</th>
+  </tr>
   <tr>
     <td>Raspberry Pi 4</td>
     <td>
@@ -61,11 +67,24 @@
     <td>1</td>
   </tr> 
   <tr>
-    <td>ESP32 Cam</td>
+    <td>ESP32</td>
     <td>
-    <img src="https://user-images.githubusercontent.com/36056832/165996397-e9527b13-6ad4-4e73-a732-7721e0ffac59.png"  alt="ESP32 Cam" width="100"/>
+    <img src="https://d229kd5ey79jzj.cloudfront.net/1013/images/1013_1_H.png"  alt="ESP32 Cam" width="100"/>
     </td>
-    <td><ul><li>Voltaje: 5 V<li>CPU de 32 bits de doble núcleo de baja potencia para procesadores de aplicaciones<li>Frecuencia principal de hasta 240 MHz<li>Potencia de cálculo de hasta 600 DMIPS<li>SRAM integrado de 520 KB<li>PSRAM externo de 4 M<li>Es ideal para interfaces como: UART. SPI. I2C. PWM. ADC. DAC<li>Soporta cámaras OV2640 y OV7670 (flash incorporado)<li>Apoyo imagen WiFi subir<li>Apoyo TF tarjeta</ul></td>
+    <td>
+      <ul>
+        <li>Voltaje: 5 V
+        <li>Microprocesador Xtensa Dual-Core 32-bit LX6 con 600 DMIPS
+        <li>Wi-Fi (802.11 b/g/n) HT40
+        <li>Bluetooth 4.2 y BLE
+        <li>Frecuencia de operación (valor típico) 160 MHz
+        <li>SRAM 448kb
+        <li>Flash 520kb
+        <li>GPIO 34
+        <li>PWM 16
+        <li>SPI 4
+      </ul>
+     </td>
     <td>1</td>
   </tr> 
   <tr>
