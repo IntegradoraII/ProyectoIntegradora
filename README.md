@@ -103,20 +103,6 @@
     <td>1</td>
   </tr> 
   <tr>
-    <td>Display LCD 16x2</td>
-    <td><img src="https://user-images.githubusercontent.com/8560750/166756741-813b8a4a-d952-4e20-aa89-b7699ffeb30d.jpg" alt="Lcd Display" width="100"/></td>
-    <td>
-      <ul>
-        <li>Voltaje: 5 V</li>
-        <li>Un pin de selección de registro (RS) que controla en qué parte de la memoria de la pantalla LCD está escribiendo datos. </li>
-        <li>Un pin de lectura/escritura (R/W) que selecciona el modo de lectura o el modo de escritura</li>
-        <li>Un pin Habilitar que permite escribir en los registros</li>
-        <li>8 pines de datos (D0 -D7) . Los estados de estos pines (alto o bajo) son los bits que estás escribiendo en un registro cuando escribes, o los valores que estás leyendo cuando lees,</li>
-      </ul>
-    </td>
-    <td>1</td>
-  </tr> 
-  <tr>
     <td>RFID-RC522</td>
     <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.14core.com%2Fwp-content%2Fuploads%2F2015%2F09%2FKit_Modulo_Rfid_Mfrc522_1356_Mhz.png&f=1&nofb=1" width="100" alt="RFID-RC522"/></td>
     <td>
