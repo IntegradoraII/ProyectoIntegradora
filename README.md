@@ -63,7 +63,22 @@
     <td>
     <img src="https://user-images.githubusercontent.com/36056832/165995675-da53df0d-9c67-46af-94e3-22f30ad2aa4d.png" alt="Raspberry Pi 4" width="100"/>
     </td>
-     <td><ul><li>Raspberry Pi 4 Modelo B 8GB RAM Original Uk.<li>Memoria microSD 32GB Clase 10 A1 con adaptador.<li>Cable microHDMI a HDMI 1.5m.<li>Carcasa con soporte para ventilador.<li>Ventilador 5VDC con tornillos y tuercas.<li>Fuente 5V 3A USB-C con Switch On/Off.<li>Kit de disipadores de calor cobre y aluminio con cinta térmica adherible.</ul></td>
+     <td>
+       <ul>
+         <li>Raspberry Pi 4 Modelo 4 8GB RAM Original Uk.
+         <li>Memoria microSD 32GB Clase 10 A1 con adaptador.
+         <li>Adpatador microHDMI a HDMI
+         <li>Cable HDMI
+         <li>Carcasa con soporte para ventilador.
+         <li>Ventilador 5VDC con tornillos y tuercas.
+         <li>Fuente 5V 3A USB-C con Switch On/Off.
+         <li>Kit de disipadores de calor cobre y aluminio con cinta térmica adherible.
+         <li>Puerto de cámara CSI para conectar una cámara Raspberry Pi
+         <li>Puerto de pantalla DSI para conectar una pantalla táctil Raspberry Pi
+         <li>Puerto Micro SD para cargar su sistema operativo y almacenar datos
+         <li>Fuente de alimentación Micro USB conmutada actualizada hasta 2.5A
+       </ul>
+    </td>
     <td>1</td>
   </tr> 
   <tr>
@@ -102,39 +117,10 @@
     <td>1</td>
   </tr> 
   <tr>
-    <td>Lector QR </td>
-    <td><img src="https://user-images.githubusercontent.com/8560750/166768412-b0cddffc-1a08-49cf-a9d5-4d46b3501678.jpg" width="100" alt="Lector de código QR"/> </td>
+    <td>RFID-RC522</td>
+    <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.14core.com%2Fwp-content%2Fuploads%2F2015%2F09%2FKit_Modulo_Rfid_Mfrc522_1356_Mhz.png&f=1&nofb=1" width="100" alt="RFID-RC522"/></td>
     <td>
       <ul>
-        <li>Dispositivo móvil con sistema operativo Android 8.0 o superior.</li>
-        <li>App para lectura de QR.</li>
-        <li>Observar detalles y características de producto.</li>
-      </ul>
-      </td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>App de comercio de AR </td>
-    <td><img src="https://user-images.githubusercontent.com/8560750/166763820-c178c82a-4f1f-47fb-9e15-34011bad59f1.jpg" width="100" alt="App de realidad aumentada"/></td>
-    <td>
-      <ul>
-        <li>Dispositivo móvil con sistema operativo Android 8.0 o superior.</li>
-        <li>App de establecimiento.</li>
-        <li>Interactuar con detalles y características de producto.</li>
-      </ul>    
-    </td>
-    <td>2 </td>
-  </tr>
-  <tr>
-    <td>ISD1820 </td>
-    <td><img src="https://user-images.githubusercontent.com/8560750/166772317-71c55285-568d-478c-aa4a-080df56c719b.jpg" width="100" alt="ISD1820"/></td>
-    <td>
-      <ul>
-        <li>Tipo: Módulo grabador de voz y parlante</li>
-        <li>Dimensiones: 42.87mmx 38.55mm x 11.25mm</li>
-        <li>Voltaje de funcionamiento: 3V a 5V DC</li>
-        <li>Altavoz: 8Ω 0.5 W</li>
-        <li>Bocina de 8ohms a 0.5W</li>
       </ul>
     </td>
     <td>1</td>
