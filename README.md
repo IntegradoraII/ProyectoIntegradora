@@ -186,7 +186,7 @@ Licencia.
 Contacto.
 
 ## Participantes
-* [Guadalupe Puentes]()
+* [Maria Guadalupe Puente Gonzalez]()
 * [César Daniel Casillas Céspedes]()
 
 [contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
