@@ -135,6 +135,8 @@
 | 4   |La administración de los usuarios estará monitoreada.|
 | 5   |El sistema debe ser capaz de soportar un crecimiento de usuarios.|
 | 6   |El programa podrá realizar los procesos necesarios en el día y para ello debe estar ligado a una base de datos.|
+| 7   |La aplicación debe ser fácil de usar para el usuario|
+| 8   |La pulsera es comoda y ergonómica.|
 
 #### Diagrama inicial
 ![image](https://user-images.githubusercontent.com/8560750/166749650-89fba768-4bbc-45c4-93d3-df9e5d08ad4c.png)
