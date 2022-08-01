@@ -125,6 +125,7 @@
 | 4   |El usuario podrá tener acceso a la información necesaria del paciente a su cuidado. |
 | 5   |El usuario podrá editar la información del paciente que este a su cuidado.|
 | 6   |El usuario podrá eliminar a algún paciente que este a su cuidado.|
+| 7   |Cuando el portador de la pulsera pase por una entrada el arduino mandará una alerta al encargado avisando de la actividad del portador.|
 
 #####No Funcionales
 |No. |Requerimientos no Funcionales|
