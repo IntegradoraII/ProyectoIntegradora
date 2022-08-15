@@ -148,8 +148,11 @@
 [![Integradora-II-bb.png](https://i.postimg.cc/90swW1F7/Integradora-II-bb.png)](https://postimg.cc/kRFgsQSJ)
 
 #### Software
-[![Web-Integradora.jpg](https://i.postimg.cc/1zMggy3P/Web-Integradora.jpg)](https://postimg.cc/7CGPd8zQ)
-[![Web-Integradora-2.jpg](https://i.postimg.cc/k4zW47TG/Web-Integradora-2.jpg)](https://postimg.cc/Kk71phSh)
+[![Web-Integradora.jpg](https://i.postimg.cc/054XLwBk/Login-de-Usuario.png)](https://postimg.cc/grvKhnpQ)
+[![Web-Integradora-2.jpg](https://i.postimg.cc/3r61NH7Y/Registro-de-Uusuario.png)](https://postimg.cc/JtNZYvG2)
+[![Web-Integradora-3.jpg](https://i.postimg.cc/bN9KtJv1/Administrador.png)](https://postimg.cc/jLCgVRPj)
+[![Web-Integradora-5.jpg](https://i.postimg.cc/DZC98fP7/Registro-del-Paciente.png)](https://postimg.cc/62vjPXPP)
+[![Web-Integradora-6.jpg](https://i.postimg.cc/26psW9PK/Formulario-del-Paciente.png)](https://postimg.cc/HJ2vDzWw)
 <!-- Construido con -->
 
 
