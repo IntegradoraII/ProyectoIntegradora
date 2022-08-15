@@ -140,7 +140,7 @@
 | 8   |La pulsera es comoda y ergonómica.|
 
 #### Diagrama inicial
-![image](https://user-images.githubusercontent.com/8560750/166749650-89fba768-4bbc-45c4-93d3-df9e5d08ad4c.png)
+[![Diagrama.Inicial.jpg](https://i.postimg.cc/G202P93D/Diagrama-ianicial.png)](https://postimg.cc/wtVggqmx)
 
 
 ### Prototipo
