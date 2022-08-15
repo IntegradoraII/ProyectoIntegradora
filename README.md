@@ -167,11 +167,11 @@
 [![Integradora-II-bb.png](https://i.postimg.cc/90swW1F7/Integradora-II-bb.png)](https://postimg.cc/kRFgsQSJ)
 
 #### Software
-[![Web-Integradora.jpg](https://i.postimg.cc/054XLwBk/Login-de-Usuario.png)](https://postimg.cc/grvKhnpQ)
-[![Web-Integradora-2.jpg](https://i.postimg.cc/3r61NH7Y/Registro-de-Uusuario.png)](https://postimg.cc/JtNZYvG2)
-[![Web-Integradora-3.jpg](https://i.postimg.cc/bN9KtJv1/Administrador.png)](https://postimg.cc/jLCgVRPj)
-[![Web-Integradora-5.jpg](https://i.postimg.cc/DZC98fP7/Registro-del-Paciente.png)](https://postimg.cc/62vjPXPP)
-[![Web-Integradora-6.jpg](https://i.postimg.cc/26psW9PK/Formulario-del-Paciente.png)](https://postimg.cc/HJ2vDzWw)
+[![Web-Integradora.jpg](https://i.postimg.cc/x85DTGf9/LOGIN.png)](https://postimg.cc/jnDkM7n1)
+[![Web-Integradora-2.jpg](https://i.postimg.cc/htxsLDmd/Registro-de-usuario.png)](https://postimg.cc/xXfLYStf)
+[![Web-Integradora-3.jpg](https://i.postimg.cc/Y2ZQdcMf/administrador.png)](https://postimg.cc/dDR70x7L)
+[![Web-Integradora-5.jpg](https://i.postimg.cc/BtfL40nr/Visualizcion-de-los-pacientes.png)](https://postimg.cc/RJGVL2fd)
+[![Web-Integradora-6.jpg](https://i.postimg.cc/jjxgQWrF/formulario.png)](https://postimg.cc/JsF5Rz0N)
 
 
 <!-- Modelo y/o Estructura de Base de Datos -->
