@@ -200,8 +200,7 @@ Instalación.
 <!-- Uso -->
 ### Caso de Uso
 Uso.
-[![Caso de uso.jpg](https://i.postimg.cc/0y8fjTcN/Caso-de-uso.png)](https://postimg.cc/Lnbf0bdd)
-
+[![CU.jpg](https://i.postimg.cc/DzjG9Rkg/CU.jpg)](https://postimg.cc/yJRW9QNg)
 ## Guias
 Guias.
 
