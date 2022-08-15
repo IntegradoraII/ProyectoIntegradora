@@ -107,6 +107,27 @@
     <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.14core.com%2Fwp-content%2Fuploads%2F2015%2F09%2FKit_Modulo_Rfid_Mfrc522_1356_Mhz.png&f=1&nofb=1" width="100" alt="RFID-RC522"/></td>
     <td>
       <ul>
+        <li>Circuitos analógicos altamente integrados para demodular y decodificar las respuestas</li>
+        <li>Controladores de salida con buffer para conectar una antena con el mínimo número de componentes externos</li>
+        <li>Soporta ISO/IEC 14443 A/MIFARE y NTAG</li>
+        <li>Distancia de funcionamiento típica en modo de lectura/escritura de hasta 50 mm en función del tamaño de la antena y de la sintonización</li>
+        <li>Admite el cifrado MF1xxS20, MF1xxS70 y MF1xxS50 en modo de lectura/escritura</li>
+        <li>Soporta la comunicación de mayor velocidad de transferencia ISO/IEC 14443 A hasta 848 kBd</li>
+        <li>Soporta MFIN/MFOUT</li>
+        <li>Fuente de alimentación interna adicional para el CI de la tarjeta inteligente conectado a través de MFIN/MFOUT</li>
+        <li>Soporta interfaces de host
+          <ul>
+            <li>SPI hasta 10 Mbit/s</li>
+            <li>Interfaz de bus I2C hasta 400 kBd en modo rápido, hasta 3400 kBd en modo de alta velocidad</li>
+            <li> RS232 Serial UART up to 1228.8 kBd, with voltage levels dependant on pin voltage supply</li>
+          </ul>
+        </li>
+        <li>El búfer FIFO gestiona el envío y la recepción de 64 bytes</li>
+        <li>Modos de interrupción flexibles</li>
+        <li> Alimentación de 2,5 V a 3,3 V</li>
+        <li>Coprocesador CRC</li>
+        <li>Modos de interrupción flexibles</li>
+        <li>Oscilador interno para conexión a cristal de cuarzo de 27,12 MHz</li>
       </ul>
     </td>
     <td>1</td>
