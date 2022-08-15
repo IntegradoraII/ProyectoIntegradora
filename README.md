@@ -173,8 +173,9 @@ Requisitos.
 Instalación.
 
 <!-- Uso -->
-### Uso
+### Caso de Uso
 Uso.
+[![Caso de uso.jpg](https://i.postimg.cc/0y8fjTcN/Caso-de-uso.png)](https://postimg.cc/Lnbf0bdd)
 
 ## Guias
 Guias.
