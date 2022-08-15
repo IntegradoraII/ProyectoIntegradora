@@ -153,7 +153,11 @@
 [![Web-Integradora-3.jpg](https://i.postimg.cc/bN9KtJv1/Administrador.png)](https://postimg.cc/jLCgVRPj)
 [![Web-Integradora-5.jpg](https://i.postimg.cc/DZC98fP7/Registro-del-Paciente.png)](https://postimg.cc/62vjPXPP)
 [![Web-Integradora-6.jpg](https://i.postimg.cc/26psW9PK/Formulario-del-Paciente.png)](https://postimg.cc/HJ2vDzWw)
-<!-- Construido con -->
+
+
+<!-- Modelo y/o Estructura de Base de Datos -->
+### Modelo y/o Estructura de Base de Dato
+[![BasedeDatos.jpg](https://i.postimg.cc/vT5h31d6/Modelo-de-base-de-datos.png)](https://postimg.cc/K3vtY8jZ)
 
 
 <!-- Construido con -->
