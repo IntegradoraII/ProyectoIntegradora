@@ -140,25 +140,23 @@
 #####Funcionales
 |No.  |Requerimiento Funcionales |
 |---  |-------------  |
-| 1   |El usuario pueda registrarse con un correo, contraseña, nombre, epellidos y número de teléfono.               |
+| 1   |El usuario pueda registrarse con un correo, contraseña, nombre, apellidos y número de teléfono.               |
 | 2   |El usuario deberá poder ingresar con un correo y contraseña.|
 | 3   |El usuario podrá agregar de uno a cinco pacientes que este bajo su cuidado.|
 | 4   |El usuario podrá tener acceso a la información necesaria del paciente a su cuidado. |
 | 5   |El usuario podrá editar la información del paciente que este a su cuidado.|
 | 6   |El usuario podrá eliminar a algún paciente que este a su cuidado.|
 | 7   |Cuando el portador de la pulsera pase por una entrada el arduino mandará una alerta al encargado avisando de la actividad del portador.|
+| 8   |La administración de los usuarios estará monitoreada.|
 
 #####No Funcionales
 |No. |Requerimientos no Funcionales|
 |---  |-------------  |
-| 1   |El sistema debe apegarse a las necesidades del usuario. |
-| 2   |El sistema debe comportarse de manera adecuada para los usuarios en una plataforma web|
-| 3   |El sistema debe estar disponible para los usuarios y solo estará fuera de servicio cuando sea necesario darle mantenimiento |
-| 4   |La administración de los usuarios estará monitoreada.|
-| 5   |El sistema debe ser capaz de soportar un crecimiento de usuarios.|
-| 6   |El programa podrá realizar los procesos necesarios en el día y para ello debe estar ligado a una base de datos.|
-| 7   |La aplicación debe ser fácil de usar para el usuario|
-| 8   |La pulsera es comoda y ergonómica.|
+| 1   |El sistema debe estar disponible para los usuarios y solo estará fuera de servicio cuando sea necesario darle mantenimiento |
+| 2   |El sistema debe ser capaz de soportar un crecimiento de usuarios.|
+| 3   |El programa podrá realizar los procesos necesarios en el día y para ello debe estar ligado a una base de datos.|
+| 4   |La aplicación debe ser fácil de usar para el usuario|
+| 5   |La pulsera es comoda y ergonómica.|
 
 #### Diagrama inicial
 [![Diagrama.Inicial.jpg](https://i.postimg.cc/G202P93D/Diagrama-ianicial.png)](https://postimg.cc/wtVggqmx)
