@@ -176,7 +176,7 @@
 
 <!-- Modelo y/o Estructura de Base de Datos -->
 ### Modelo y/o Estructura de Base de Dato
-[![BasedeDatos.jpg](https://i.postimg.cc/vT5h31d6/Modelo-de-base-de-datos.png)](https://postimg.cc/K3vtY8jZ)
+[![BasedeDatos.jpg](https://i.postimg.cc/Jzyty09b/base-de-datos.png)](https://postimg.cc/WdvsCNp3)
 
 
 <!-- Construido con -->
