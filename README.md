@@ -184,11 +184,11 @@
 Construido con.
 
 ###Costos de los Materiales.
- <li>•	Rasberry Pi 4 $3459</li>
- <li>•	ESP32 $270</li>
- <li>•	RFID-RC522 $120</li>
+ <li>Rasberry Pi 4 $3459</li>
+ <li>ESP32 $270</li>
+ <li>RFID-RC522 $120</li>
  ###Costo del Software.
- <li>•	70 horas hombre. </li>
+ <li>70 horas hombre. </li>
 
 <!-- Iniciando -->
 ## Iniciando
