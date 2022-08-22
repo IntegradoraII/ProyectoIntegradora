@@ -176,7 +176,7 @@
 
 <!-- Modelo y/o Estructura de Base de Datos -->
 ### Modelo y/o Estructura de Base de Dato
-[![BasedeDatos.jpg](https://i.postimg.cc/Jzyty09b/base-de-datos.png)](https://postimg.cc/WdvsCNp3)
+[![BasedeDatos.jpg](https://i.postimg.cc/Qtb60b1V/base-de-datos.png)](https://postimg.cc/cgvMJfDN)
 
 
 <!-- Construido con -->
@@ -190,14 +190,6 @@ Construido con.
  ###Costo del Software.
  <li>70 horas hombre. </li>
 
-<!-- Iniciando -->
-## Iniciando
-Iniciando.
-
-<!-- Requisitos -->
-### Requisitos
-Requisitos.
-
 <!-- Instalación -->
 ### Instalacion
 Instalación.
@@ -209,14 +201,6 @@ Uso.
 ## Guias
 Guias.
 
-## contribucion
-Contribucion.
-
-## Licencia
-Licencia.
-
-## Contacto
-Contacto.
 
 ## Participantes
 * [Maria Guadalupe Puente Gonzalez]()
