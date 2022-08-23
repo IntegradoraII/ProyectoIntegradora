@@ -183,6 +183,24 @@
 ### Construido con
 Construido con.
 
+###La aplicación fue desarrollada con las siguientes tecnologías: 
+> •	Mosquitto.
+es un software de código abierto y gratuito, bajo licencia EPL/EDL, y que actúa como un broker o intermediario de mensajes a través del protocolo MQTT. Este software es muy liviano, adecuado para multitud de dispositivos diferentes, desde un PC hasta placas empotradas de bajo consumo.
+
+> •	Node-RED.
+es herramienta de desarrollo open-source basada en programación visual que fue creada por IBM para conectar dispositivos de hardware, APIs y servicios en línea.
+
+> •	MongoDB. 
+ha lanzado su nueva versión, la cual permite usar su servicio desde la nube. Si no sabes cómo integrarlo a tus proyectos, aquí te presentamos un pequeño tutorial.
+
+> •	Django.
+es un framework web de alto nivel que permite el desarrollo rápido de sitios web seguros y mantenibles. Desarrollado por programadores experimentados, Django se encarga de gran parte de las complicaciones del desarrollo web, por lo que puedes concentrarte en escribir tu aplicación sin necesidad de reinventar la rueda.
+
+>•	Python3.
+es un lenguaje de programación de alto nivel que se utiliza para desarrollar aplicaciones de todo tipo. A diferencia de otros lenguajes como Java o .NET, se trata de un lenguaje interpretado.
+
+
+
 ###Costos de los Materiales.
  <li>Rasberry Pi 4 $3459</li>
  <li>ESP32 $270</li>
