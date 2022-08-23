@@ -205,6 +205,7 @@ es un lenguaje de programación de alto nivel que se utiliza para desarrollar ap
  <li>Rasberry Pi 4 $3459</li>
  <li>ESP32 $270</li>
  <li>RFID-RC522 $120</li>
+ 
  ###Costo del Software.
  <li>70 horas hombre. </li>
 
