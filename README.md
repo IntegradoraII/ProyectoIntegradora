@@ -199,7 +199,7 @@ es un framework web de alto nivel que permite el desarrollo rápido de sitios we
 >•	Python3.
 es un lenguaje de programación de alto nivel que se utiliza para desarrollar aplicaciones de todo tipo. A diferencia de otros lenguajes como Java o .NET, se trata de un lenguaje interpretado.
 
->•	Slite3.
+>•	Sqlite3.
 Es una herramienta de software libre, que permite almacenar información en dispositivos empotrados de una forma sencilla, eficaz, potente, rápida y en equipos con pocas capacidades de hardware, como puede ser una PDA o un teléfono celular.
 
 
